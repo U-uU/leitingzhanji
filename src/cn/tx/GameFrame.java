@@ -98,6 +98,5 @@ public class GameFrame extends JFrame {
 //        Player player1 = new Player(frame.heroPlane1);
         frame.addKeyListener(player);
 //        frame.addKeyListener(player1);
-        System.out.println("!!!!");
     }
 }
